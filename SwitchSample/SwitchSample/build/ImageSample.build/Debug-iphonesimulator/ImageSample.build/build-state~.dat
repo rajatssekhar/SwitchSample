@@ -1,0 +1,287 @@
+TImageSample
+v7
+r0
+t316770197.573520
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/Info.plist" ImageSample-Info.plist
+cCompileXIB "/Users/sathish/Documents/iPhone Mobile App/ImageSample/MainWindow.xib"
+cCompileXIB "/Users/sathish/Documents/iPhone Mobile App/ImageSample/ImageSampleViewController.xib"
+cCpResource build/Debug-iphonesimulator/ImageSample.app/DSC_0048.JPG ../../Grandma/DSC_0048.JPG
+cProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageSample_Prefix-clkgplorfudjjlfbzqsppwsjchjo/ImageSample_Prefix.pch.gch ImageSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/Objects-normal/i386/main.o "/Users/sathish/Documents/iPhone Mobile App/ImageSample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/Objects-normal/i386/ImageSampleAppDelegate.o "/Users/sathish/Documents/iPhone Mobile App/ImageSample/Classes/ImageSampleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/Objects-normal/i386/ImageSampleViewController.o "/Users/sathish/Documents/iPhone Mobile App/ImageSample/Classes/ImageSampleViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/ImageSample" normal i386
+cGenerateDSYMFile "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app.dSYM" "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/ImageSample"
+cTouch "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/../../../Desktop/Screen shot 2011-01-12 at 5.07.30 PM.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/../../Grandma/DSC_0048.JPG
+c000000004C8DF4130000000000130147
+t1284371475
+s1245511
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/Classes/ImageSampleAppDelegate.h
+c000000004D2D36E000000000000001EF
+t1294808800
+s495
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/Classes/ImageSampleAppDelegate.m
+c000000004D2D36E00000000000000AA1
+t1294808800
+s2721
+i"ImageSampleAppDelegate.h"
+i"ImageSampleViewController.h"
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/Classes/ImageSampleViewController.h
+c000000004D314F0D0000000000000146
+t1295077133
+s326
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/Classes/ImageSampleViewController.m
+c000000004D315011000000000000062A
+t1295077393
+s1578
+i"ImageSampleViewController.h"
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/ImageSampleViewController.xib
+c000000004D2D36E00000000000001A55
+t1294808800
+s6741
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/ImageSample_Prefix.pch
+c000000004D2D36E000000000000000BF
+t1294808800
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/MainWindow.xib
+c000000004D2D36E00000000000004E59
+t1294808800
+s20057
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app
+t1295077397
+s272
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app.dSYM
+t1295077397
+s102
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/DSC_0048.JPG
+t1295077395
+s1245511
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/ImageSample
+t1295077397
+s18052
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/ImageSampleViewController.nib
+t1295077395
+s795
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/Info.plist
+t1295077395
+s607
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/MainWindow.nib
+t1295077395
+s1131
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/PkgInfo
+t1295077395
+s8
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/Screen shot 2011-01-12 at 5.07.30 PM.png
+t2
+s0
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/Objects-normal/i386/ImageSample.LinkFileList
+c000000004D31501300000000000001DD
+t1295077395
+s477
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/Objects-normal/i386/ImageSampleAppDelegate.o
+t1295077397
+s51208
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/Objects-normal/i386/ImageSampleViewController.o
+t1295077397
+s40700
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/Objects-normal/i386/main.o
+t1295077397
+s6336
+
+N/Users/sathish/Documents/iPhone Mobile App/ImageSample/main.m
+c000000004D2D36E00000000000000165
+t1294808800
+s357
+i<UIKit/UIKit.h>
+
+N/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageSample_Prefix-clkgplorfudjjlfbzqsppwsjchjo/ImageSample_Prefix.pch.gch
+t1295077396
+s15453392
+
+NImageSample-Info.plist
+c000000004D2D36E0000000000000038D
+t1294808800
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316770195#316770195#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/Objects-normal/i386/ImageSampleAppDelegate.o "/Users/sathish/Documents/iPhone Mobile App/ImageSample/Classes/ImageSampleAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316770197.023746
+e316770197.182580
+r1
+xCompileC
+xbuild/ImageSample.build/Debug-iphonesimulator/ImageSample.build/Objects-normal/i386/ImageSampleAppDelegate.o
+x/Users/sathish/Documents/iPhone Mobile App/ImageSample/Classes/ImageSampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/sathish/Documents/iPhone Mobile App/ImageSample/Classes/ImageSampleAppDelegate.m316770197#316770197#0(0"0(0#0#87"/Users/sathish/Documents/iPhone Mobile App/ImageSample/Classes/ImageSampleAppDelegate.m8611863840#2236"    cd "/Users/sathish/Documents/iPhone Mobile App/ImageSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/ImageSample-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/ImageSample-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/ImageSample-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/ImageSample-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageSample_Prefix-clkgplorfudjjlfbzqsppwsjchjo/ImageSample_Prefix.pch -c "/Users/sathish/Documents/iPhone Mobile App/ImageSample/Classes/ImageSampleAppDelegate.m" -o "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/Objects-normal/i386/ImageSampleAppDelegate.o"0#
+
+CCompileC build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/Objects-normal/i386/ImageSampleViewController.o "/Users/sathish/Documents/iPhone Mobile App/ImageSample/Classes/ImageSampleViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316770197.155059
+e316770197.227983
+r1
+xCompileC
+xbuild/ImageSample.build/Debug-iphonesimulator/ImageSample.build/Objects-normal/i386/ImageSampleViewController.o
+x/Users/sathish/Documents/iPhone Mobile App/ImageSample/Classes/ImageSampleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/sathish/Documents/iPhone Mobile App/ImageSample/Classes/ImageSampleViewController.m316770197#316770197#0(0"0(0#0#90"/Users/sathish/Documents/iPhone Mobile App/ImageSample/Classes/ImageSampleViewController.m8610574880#2242"    cd "/Users/sathish/Documents/iPhone Mobile App/ImageSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/ImageSample-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/ImageSample-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/ImageSample-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/ImageSample-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageSample_Prefix-clkgplorfudjjlfbzqsppwsjchjo/ImageSample_Prefix.pch -c "/Users/sathish/Documents/iPhone Mobile App/ImageSample/Classes/ImageSampleViewController.m" -o "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/Objects-normal/i386/ImageSampleViewController.o"0#
+
+CCompileC build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/Objects-normal/i386/main.o "/Users/sathish/Documents/iPhone Mobile App/ImageSample/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316770197.022217
+e316770197.154964
+r1
+xCompileC
+xbuild/ImageSample.build/Debug-iphonesimulator/ImageSample.build/Objects-normal/i386/main.o
+x/Users/sathish/Documents/iPhone Mobile App/ImageSample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/sathish/Documents/iPhone Mobile App/ImageSample/main.m316770197#316770197#0(0"0(0#0#61"/Users/sathish/Documents/iPhone Mobile App/ImageSample/main.m8612571040#2192"    cd "/Users/sathish/Documents/iPhone Mobile App/ImageSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/ImageSample-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/ImageSample-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/ImageSample-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/ImageSample-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageSample_Prefix-clkgplorfudjjlfbzqsppwsjchjo/ImageSample_Prefix.pch -c "/Users/sathish/Documents/iPhone Mobile App/ImageSample/main.m" -o "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/sathish/Documents/iPhone Mobile App/ImageSample/ImageSampleViewController.xib"
+s316770195.429883
+e316770195.867528
+r1
+xCompileXIB
+x/Users/sathish/Documents/iPhone Mobile App/ImageSample/ImageSampleViewController.xib
+lSLF07#2@40"CompileXIB ImageSampleViewController.xib316770195#316770195#0(0"0(0#0#84"/Users/sathish/Documents/iPhone Mobile App/ImageSample/ImageSampleViewController.xib8612417376#658"    cd "/Users/sathish/Documents/iPhone Mobile App/ImageSample"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/ImageSampleViewController.nib" "/Users/sathish/Documents/iPhone Mobile App/ImageSample/ImageSampleViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/sathish/Documents/iPhone Mobile App/ImageSample/MainWindow.xib"
+s316770195.428130
+e316770195.867362
+r1
+xCompileXIB
+x/Users/sathish/Documents/iPhone Mobile App/ImageSample/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib316770195#316770195#0(0"0(0#0#69"/Users/sathish/Documents/iPhone Mobile App/ImageSample/MainWindow.xib8612570080#628"    cd "/Users/sathish/Documents/iPhone Mobile App/ImageSample"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/MainWindow.nib" "/Users/sathish/Documents/iPhone Mobile App/ImageSample/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource "build/Debug-iphonesimulator/ImageSample.app/Screen shot 2011-01-12 at 5.07.30 PM.png" "../../../Desktop/Screen shot 2011-01-12 at 5.07.30 PM.png"
+r0
+
+CCpResource build/Debug-iphonesimulator/ImageSample.app/DSC_0048.JPG ../../Grandma/DSC_0048.JPG
+s316770195.867599
+e316770195.908307
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ImageSample.app/DSC_0048.JPG
+x../../Grandma/DSC_0048.JPG
+lSLF07#2@31"Copy ../../Grandma/DSC_0048.JPG316770195#316770195#0(0"0(0#0#81"/Users/sathish/Documents/iPhone Mobile App/ImageSample/../../Grandma/DSC_0048.JPG8610767872#542"    cd "/Users/sathish/Documents/iPhone Mobile App/ImageSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/sathish/Documents/iPhone Mobile App/ImageSample/../../Grandma/DSC_0048.JPG" "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app"0#
+
+CGenerateDSYMFile "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app.dSYM" "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/ImageSample"
+s316770197.500966
+e316770197.550285
+r1
+xGenerateDSYMFile
+x/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app.dSYM
+x/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/ImageSample
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/ImageSample.app.dSYM build/Debug-iphonesimulator/ImageSample.app/ImageSample316770197#316770197#0(0"0(0#0#110"/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/ImageSample8612016480#449"    cd "/Users/sathish/Documents/iPhone Mobile App/ImageSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/ImageSample" -o "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app.dSYM"0#
+
+CLd "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/ImageSample" normal i386
+s316770197.228074
+e316770197.500873
+r1
+xLd
+x/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/ImageSample
+xnormal
+xi386
+lSLF07#2@115"Link /Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/ImageSample316770197#316770197#0(0"0(0#0#0"8602915712#1010"    cd "/Users/sathish/Documents/iPhone Mobile App/ImageSample"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator" "-F/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator" -filelist "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/Objects-normal/i386/ImageSample.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/ImageSample"0#
+
+CProcessInfoPlistFile "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/Info.plist" ImageSample-Info.plist
+s316770195.396942
+e316770195.428030
+r1
+xProcessInfoPlistFile
+x/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/Info.plist
+xImageSample-Info.plist
+lSLF07#2@30"Process ImageSample-Info.plist316770195#316770195#0(0"0(0#0#77"/Users/sathish/Documents/iPhone Mobile App/ImageSample/ImageSample-Info.plist6009322945938796544#545"    cd "/Users/sathish/Documents/iPhone Mobile App/ImageSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ImageSample-Info.plist -genpkginfo "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app/Info.plist"0#
+
+CProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageSample_Prefix-clkgplorfudjjlfbzqsppwsjchjo/ImageSample_Prefix.pch.gch ImageSample_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s316770195.908444
+e316770197.021828
+r1
+xProcessPCH
+x/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageSample_Prefix-clkgplorfudjjlfbzqsppwsjchjo/ImageSample_Prefix.pch.gch
+xImageSample_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile ImageSample_Prefix.pch316770195#316770197#0(0"0(0#0#77"/Users/sathish/Documents/iPhone Mobile App/ImageSample/ImageSample_Prefix.pch8610828064#2062"    cd "/Users/sathish/Documents/iPhone Mobile App/ImageSample"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/ImageSample-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/ImageSample-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/ImageSample-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/ImageSample-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/ImageSample.build/Debug-iphonesimulator/ImageSample.build/DerivedSources" -c "/Users/sathish/Documents/iPhone Mobile App/ImageSample/ImageSample_Prefix.pch" -o /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ImageSample_Prefix-clkgplorfudjjlfbzqsppwsjchjo/ImageSample_Prefix.pch.gch0#
+
+CTouch "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app"
+s316770197.550378
+e316770197.573463
+r1
+xTouch
+x/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app
+lSLF07#2@104"Touch /Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app316770197#316770197#0(0"0(0#0#0"8611005600#318"    cd "/Users/sathish/Documents/iPhone Mobile App/ImageSample"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sathish/Documents/iPhone Mobile App/ImageSample/build/Debug-iphonesimulator/ImageSample.app"0#
+
